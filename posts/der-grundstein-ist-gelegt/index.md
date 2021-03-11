@@ -11,4 +11,4 @@
 
 ![Image of a Rainbow](/images/Rainbow.jpg)
 
-Der erste Eintrag beginnt mit einem doppelten Regenbogen und einem Blitz. Halb echt, halb AI.
+Der erste Eintrag beginnt mit einem doppelten Regenbogen und einem Blitz.
