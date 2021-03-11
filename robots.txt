@@ -1,0 +1,4 @@
+Sitemap: https://blog.voss.kim/sitemapindex.xml
+
+User-Agent: *
+Host: blog.voss.kim
