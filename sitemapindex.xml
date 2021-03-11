@@ -6,62 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://blog.voss.kim/authors/kim.xml</loc>
-  <lastmod>2021-03-11T16:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/authors/roberto-alsina.xml</loc>
-  <lastmod>2021-03-11T16:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/categories/blog.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/categories/cat_nikola.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/categories/demo.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/categories/nikola.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/categories/python.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/authors/kim.xml</loc>
-  <lastmod>2021-03-11T16:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/authors/roberto-alsina.xml</loc>
-  <lastmod>2021-03-11T16:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/categories/blog.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/categories/cat_nikola.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/categories/demo.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/categories/nikola.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/en/categories/python.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://blog.voss.kim/en/galleries/demo/rss.xml</loc>
   <lastmod>2021-03-11T18:18:00Z</lastmod>
  </sitemap>
@@ -72,34 +16,6 @@
  <sitemap>
   <loc>https://blog.voss.kim/en/rss.xml</loc>
   <lastmod>2021-03-11T18:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/authors/kim.xml</loc>
-  <lastmod>2021-03-11T16:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/authors/roberto-alsina.xml</loc>
-  <lastmod>2021-03-11T16:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/categories/blog.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/categories/cat_nikola.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/categories/demo.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/categories/nikola.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.voss.kim/fr/categories/python.xml</loc>
-  <lastmod>2021-03-11T16:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.voss.kim/fr/galleries/demo/rss.xml</loc>
@@ -127,6 +43,6 @@
  </sitemap>
  <sitemap>
   <loc>https://blog.voss.kim/sitemap.xml</loc>
-  <lastmod>2021-03-11T18:18:00Z</lastmod>
+  <lastmod>2021-03-11T18:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
